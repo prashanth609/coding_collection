@@ -1,4 +1,4 @@
-package com.java8;
+package Java_8;
 
 import java.util.Map;
 import java.util.*;
